@@ -10,6 +10,10 @@ We approach this issue across two modes of body quantification;
 
 Our proposition is to develop other (proto)types of digital devices, software and infrastructure that both reveal the complex flaws behind this current context as well as proposing alternative visions for what 'self quantification' might mean. These devices - a kind of '(digital) companion species' (Braidotti, Haraway, Hayles) - should emerge from a process of 'co-evolution' that is reflective of the variable agencies of software (Fuller, Mackenzie).
 
-. . . . . . . . . . . . . . . . . . . . 
+. . . 
+
+*an extract from the source code of the character modelling software package 'MakeHuman'*
 
 ![reMakeHuman](quantfiedEthnicity.png)
+
+. . . 
