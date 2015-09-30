@@ -54,7 +54,7 @@ Phil Langley is an architect and computational designer, based in London, and is
 https://github.com/phiLangley/openPHD
 http://www.openkhana.net/
 
-Phil's most recent project is called' reMakeHuman' and is a critical hacking of the popoluar character modelling software package 'makehuman'. This work was initially developed as part of the 'GenderBlending' workshop organised by Constant, in Brussles (Nov 2015).
+Phil's most recent project is called' reMakeHuman' and is a critical hacking of the popular character modelling software package 'makehuman'. This work was initially developed as part of the 'GenderBlending' workshop organised by Constant, in Brussles (Nov 2015).
 
 https://github.com/phiLangley/reMakehuman
 
