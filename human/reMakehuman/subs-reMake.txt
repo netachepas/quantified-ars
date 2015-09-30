@@ -1,0 +1,35 @@
+Destabilizing Make human
+first of all down load make human source code from bit bucket.
+some examples of how to destabilize make human
+
+changing the language.
+you can change the language of the software - use your own imagination. look inside the data folder and then the language folder to choose which language you would like to modify. you can use grep to recursively search files. 
+simple.
+
+changing the colors.
+if you are uncomfortable with the ethnicity sliders, you can change them. all you need to do is edit the image files that are used form texture. these are located in the lit spheres folder. we have changed them using gimp to be red green and blue. this means you can make any color model you want. 
+nice.
+
+playing with the defaults.
+if you are not happy with your start up model being made from so called averages, you can randomize it. edit the human python file and replace the default middle values with random numbers. 
+easy.
+
+choose some different icons.
+if you dont like the icons inside make human you can always change them to something else. look for the targets folder inside the data folder. each of the body parts has its own icon set inside. you can just edit or change the image files.
+no problem.
+
+parametric decoupling.
+this sounds complicated, but do not worry. we want to affect the relationship between the parameters and to increase the space of possibilities. inside the human modifier python file we have removed the part of the code that updates the related modifiers. it is in the apps folder. between lines 228 and 237. this will give you some unexpected outcomes. 
+wow.
+
+give an identity to your modified software.
+once you have personalized your software, you should give it an identity. if you search for the splash image inside the theme folder you can edit it or replace it with an image of your own. 
+beautiful.
+
+congratulations. you have hacked make human.
+you can fork the software on bit bucket and make your own, or you can follow our bug report that explains our suggestions.
+good luck.
+
+
+
+
