@@ -10,6 +10,37 @@ We approach this issue across two modes of body quantification;
 
 Our proposition is to develop other (proto)types of digital devices, software and infrastructure that both reveal the complex flaws behind this current context as well as proposing alternative visions for what 'self quantification' might mean. These devices - a kind of '(digital) companion species' (Braidotti, Haraway, Hayles) - should emerge from a process of 'co-evolution' that is reflective of the variable agencies of software (Fuller, Mackenzie).
 
-. . . . . . . . . . . . . . . . . . . . 
+. . . 
+
+*an extract from the source code of the character modelling software package 'MakeHuman'*
 
 ![reMakeHuman](quantfiedEthnicity.png)
+
+. . . 
+
+Collective Biographies
+-------------
+After a week spent together at relearn (20-25th august 2015 in Brussels) working on issues around 'self quantification' we decided to answer the Sparks call as a collective team - Anna Carreras, Natacha Roussel and Phil Langley.The content of this repo represents our ongoing collaborations on this topic and contains the source material we have used to develop ou submission 
+
+Anna Carreras
+-------------
+Anna (Barcelona, 1979) holds two MSc degrees, one in Telecommunication Systems Engineering from Universitat Politècnica de Catalunya and another in Information, Communication and Audiovisual Technologies from the Universitat Pompeu Fabra. She became a member of the Experimentation on Interactive Communication research group, focusing her work on the use of interactive technology (whole full-body interaction, tangible and embodied interfaces) as a means of communication and an experience generator. She has developed installations for several museums such as Cosmocaixa (Barcelona Science Museum), Expo Zaragoza or the Forum Barcelona 2004. She has also worked as Director of Technology at Cuatic, Ping Pong Technologies and Reactable Systems where she developed custom projects related to multitouch interfaces and music. She develops as freelance either comercial and artistic interactive projects.
+
+http://annacarreras.com/
+
+Natacha Roussel
+-------------
+Natacha is an artist and researcher.  She recieved a PHD degree at Paris Sorbonne University for her work on participative possibilities of mobile technologies. Residing in Brusels since 2011, she is involved in several collective media and digital art projects and has recieved. She founded the collective Experientiae Electricae. Her multimedia works focus on collective and environmental interactions. She is interested quantification devices and their social implementation and haptic interfaces as participative propositions.
+
+http://walker.domainepublic.org/
+
+Phil Langley
+-------------
+Phil is an architect and computational designer, based in London and Sheffield, and is also a PhD candidate at the School of Architecture at the University of Sheffield. Phil has worked in Architectural practice for over ten years and specialises in the design of digital tools and hacks to modify and disrupt the existing, proprietary software platforms currently used in the industry. Phil's research further explores other ways of engaging with digital technology for spatial design practice, with a particular focus on open source approaches to software and coding. Phil is also a founding member of OPENkhana, a collaborative group that works between architectural, computational and artistic practice. 
+
+https://github.com/phiLangley/openPHD
+http://www.openkhana.net/
+
+Phil's most recent project is called' reMakeHuman' and is a critical hacking of the popular character modelling software package 'MakeHuman'. This work was initially developed as part of the 'GenderBlending' workshop organised by Constant, in Brussels (Nov 2015).
+
+https://github.com/phiLangley/reMakehuman
